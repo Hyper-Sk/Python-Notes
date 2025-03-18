@@ -1,0 +1,39 @@
+- - - Code Editors:
+1. PyCharm:
+- Download from PyCharm's website.
+- Follow the installation wizard.
+- PyCharm automatically detects Python during setup.
+
+
+2. Jupyter Notebook (for data analysis):
+- Install it via pip:
+> > pip install notebook
+- Run it with:
+> > jupyter notebook
+
+
+- - - Visusal Studio Code : 
+
+1. Download VS Code from the official website.
+- Install it on your system by following the on-screen instructions.
+
+
+2. Install Python Extension:
+- Open VS Code.
+- - Go to the Extensions panel:
+- Click the Extensions icon on the left sidebar (or press Ctrl+Shift+X).
+- Search for "Python".
+- Install the extension by Microsoft (the most popular Python extension).
+
+
+3. Verify Python Installation in VS Code:
+- Open a new file and save it with a .py extension (e.g., hello.py).
+- - Write a simple Python program:
+>> print("Hello, World!")
+- Press Ctrl+Shift+P to open the Command Palette.
+- Type "Python: Select Interpreter" and choose the Python version installed on your system.
+
+5. Install Useful Extensions
+- Python Docstring Generator: Helps document functions/classes.
+- Bracket Pair Colorizer: Makes code easier to read with colored brackets.
+- Prettier: For consistent formatting.

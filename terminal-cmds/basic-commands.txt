@@ -1,0 +1,66 @@
+basic commands ------> 
+
+change directory ( cd ) :
+$ parentpath>  cd pathname/foldername/directoryname
+
+go to parent directory ( cd ../ )
+$ childpath> cd ../
+
+print working directory : 
+$ path> pwd 
+
+create new folder or directory :
+$ path> mkdir foldername 
+
+create folder and also a child folder :
+$ path> mkdir -p parent/child-1
+
+remove directory/folder :
+$ path> rmdir foldername
+note : it only works if the folder is empty
+
+read all code from file :
+$ path> cat filename with extension
+
+
+All List commands ----> 
+
+List files command (ls) 
+$ path> ls 
+
+> ls -l command : 
+checks last modified files with date and time
+
+> ls -la command : 
+Show last modified and also hidden files 
+
+> ls -lt command : 
+list files according to time date
+
+> ls -lh  command : 
+list human redable format
+
+> ls -LS 
+list according to size
+
+> ls --help 
+show help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+run python file in terminal :
+python filename with extension
